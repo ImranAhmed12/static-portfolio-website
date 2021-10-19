@@ -1,0 +1,235 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family: century gothic
+}
+
+
+.header
+{ 
+    background-color: red;
+    width: 100%;
+    
+    
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header ul{
+    float: right;
+    
+}
+
+.header ul li{
+    margin: 10px 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.header li a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+.header li a:hover
+{
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 25px transparent #fff;
+}
+
+
+
+
+.imran
+{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    background-image: linear-gradient(62deg
+, #3a3d40 0%, #181719 100%);
+    color: white;
+}
+
+.imran h1
+{
+    font-size: 60px;
+}
+.imran h3
+{
+    font-size: 30px;
+    color:brown;
+    margin-top: 5px;
+}
+.row
+{
+    display: flex;
+    justify-content: space-around;
+}
+.column img
+{
+    width: 400px;
+    height: 400px;
+}
+.column h3
+{
+    background-color: gray;
+text-align: center;
+    height: 55px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+
+.hero
+{
+    padding-top: 100px;
+    background-color: powderblue;
+    font-size: 35px;
+    padding-bottom: 40px;
+    
+}
+.hero h2
+{
+    text-decoration: underline;
+}
+
+
+
+.row{
+    background-color: powderblue;
+}
+
+
+
+
+
+
+
+.vertical
+{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    height: 580px;
+    
+}
+.right img
+{
+    width: 400px;
+    height: 400px;
+}
+.right h3
+{
+    background-color: gray;
+text-align: center;
+    height: 55px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+.vertical{
+    background-color: powderblue;
+    
+}
+.button
+{
+    
+    text-align: center;
+    font-size: 25px;
+    background-color: powderblue;
+    height: 30%;
+    
+    
+    
+}
+.button a
+{
+    color: #fff;
+ text-decoration: none;
+    margin-top: 3S0px;
+    background-color: black;
+    border: 1px solid black;
+    padding: 10px;
+    
+    
+}
+
+.work
+{
+    padding-top: 90px;
+    background-color: black;
+    text-align: center;
+    
+}
+.work h1
+{
+    font-size: 65px;
+    color: #fff;
+}
+.work h3
+{
+    font-size: 20px;
+margin-top: 10px;
+    color:#fff;
+}
+
+
+.facebook{
+    background-color: black;
+    
+}
+
+
+
+.facebook ul
+{
+
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 350px;
+    list-style-type: none;
+    margin-top: 60px;
+    
+    
+}
+.facebook a
+{
+    text-decoration: none;
+    padding: 30px;
+    font-size: 25px;
+    color: #fff;
+    
+}
+hr
+{
+    margin-top: 110px; 
+    height: 4px;
+    background-color: red;
+    border: none;
+    
+}
+
+.bottom
+{
+    display: flex;
+    justify-content: space-around;
+color: #fff;
+    
+    height:20%;
+    
+    
+}
+.bottom p
+{
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.let
+{
+    background-color: black;
+}
